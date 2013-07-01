@@ -6,6 +6,6 @@ Unfortunately it doesn't work any longer with the new version (2012/2013) of the
 Feel free to grab up the project and fix it!
 
 For more information visit:
-http://code-bude.net
+(german) http://code-bude.net/2013/07/01/myspace-loader-sourcecode-zum-download/
 or 
-http://en.code-bude.net 
+(english) http://en.code-bude.net/2013/07/01/myspace-loader-sourcecode-available-for-download/
